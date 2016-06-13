@@ -8,11 +8,11 @@
 | Filename: ts3_view.php
 | Author: Dennis Kaiser (Septron)
 | Support Website: http://www.septron.de
-|				   http://www.septron.eu
-|				   http://www.septron.net
-|				   http://www.septron.org
-|				   http://www.septron.info
-|				   http://phpfusion-deutschland.de
+| http://www.septron.eu
+| http://www.septron.net
+| http://www.septron.org
+| http://www.septron.info
+| http://phpfusion-deutschland.de
 +--------------------------------------------------------+
 | This program is released as free software under the
 | Affero GPL license. You can redistribute it and/or
