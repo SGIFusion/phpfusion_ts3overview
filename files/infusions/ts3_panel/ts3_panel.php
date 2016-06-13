@@ -27,31 +27,7 @@ include INFUSIONS."ts3_panel/infusion_db.php";
 
 openside("Teamspeak 3");
 /*
-//DATABASE START
-$ts3ssvpanel = dbquery("SELECT * FROM ".DB_TS3_SET."");
-	while($data = dbarray($ts3ssv)) {
-		$host = $data['host'];
-		$query_port = $data['query_port'];
-		$port = $data['port'];
-		$admin_login = $data['admin_login'];
-		$admin_passw = $data['admin_passw'];
-		//DATABASE END
-require_once("statusviewer/ts3ssv.php");
-echo '<link rel="stylesheet" type="text/css" href="statusviewer/ts3ssv.css" />
-<script type="text/javascript" src="statusviewer/ts3ssv.js"></script>';
-$ts3ssvpanel = new ts3ssv("$host", $query_port);
-$ts3ssvpanel->useServerPort($port);
-$ts3ssvpanel->imagePath = "statusviewer/img/default/";
-$ts3ssvpanel->timeout = 2;
-$ts3ssvpanel->setLoginPassword("$admin_login", "$admin_passw");
-$ts3ssvpanel->setCache(60, "statusviewer/ts3ssv.php.cache");
-$ts3ssvpanel->hideEmptyChannels = false;
-$ts3ssvpanel->hideParentChannels = false;
-$ts3ssvpanel->showNicknameBox = false;
-$ts3ssvpanel->showPasswordBox = false;
-echo $ts3ssvpanel->render();
-	}
-#echo 'CONTENT ONE';
+echo 'Inhalt derzeit nicht geplant...';
 */
 closeside();
 
