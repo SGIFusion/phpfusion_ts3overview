@@ -1,0 +1,2 @@
+<div id="body">
+<div class="error"><img style="vertical-align: middle;" src="/images//error.png" alt=""> Can't connect to server.</div><br />

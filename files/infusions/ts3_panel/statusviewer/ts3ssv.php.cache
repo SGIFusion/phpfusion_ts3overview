@@ -1,0 +1,235 @@
+<div class="ts3ssv">
+	<input type="hidden" id="ts3ssv-81-169-151-134-2012-hostport" value="81.169.151.134:2012" />
+	
+	<div class="ts3ssvItem ts3ssvServer">
+		<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012')"><img src="statusviewer/img/default/16x16_server_green.png" />SGI Fusion - Since 2008</a>-->
+		<img src="statusviewer/img/default/16x16_server_green.png" />SGI Fusion - Since 2008
+		<div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',3)" title="Admin Bereich [3]">-->
+		<img src="statusviewer/img/default/16x16_channel_yellow.png" />Admin Bereich
+		<div class="ts3ssvFlags">
+			<img src="statusviewer/img/default/16x16_register.png" />
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',553)" title="Server Regeln [553]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Server Regeln
+		<div class="ts3ssvFlags">
+			<img src="statusviewer/img/default/16x16_moderated.png" />
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',2)" title="&bull; Willkommen &bull; [2]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />&bull; Willkommen &bull;
+		<div class="ts3ssvFlags">
+			<img src="statusviewer/img/default/16x16_default.png" /><img src="statusviewer/img/default/16x16_moderated.png" />
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',8)" title="Laberecke Bereich [8]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Laberecke Bereich
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	<div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',9)" title="Laberecke I [9]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Laberecke I
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',10)" title="Laberecke II [10]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Laberecke II
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',347)" title="Laberecke III [347]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Laberecke III
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div>
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',13)" title="Gaming Bereich [13]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Gaming Bereich
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	<div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',14)" title="Gamer Ecke I [14]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Gamer Ecke I
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',15)" title="Gamer Ecke II [15]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Gamer Ecke II
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',16)" title="Gamer Ecke III [16]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Gamer Ecke III
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div>
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',586)" title="League of Legends [586]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />League of Legends
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	<div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',587)" title="Normal [587]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Normal
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',595)" title="Normal II [595]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Normal II
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',596)" title="Normal III [596]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Normal III
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',589)" title="Teamersteller [589]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Teamersteller
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',588)" title="Solo/Duo [588]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />Solo/Duo
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',598)" title="3er Ranked [598]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />3er Ranked
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',599)" title="5er Ranked [599]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />5er Ranked
+		<div class="ts3ssvFlags">
+			
+		</div>
+		
+	<!--</a>-->
+	
+</div>
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',18)" title="AFK Bereich [18]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />AFK Bereich
+		<div class="ts3ssvFlags">
+			<img src="statusviewer/img/default/16x16_moderated.png" />
+		</div>
+		
+	<!--</a>-->
+	<div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',19)" title="kurz Weg [19]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />kurz Weg
+		<div class="ts3ssvFlags">
+			<img src="statusviewer/img/default/16x16_moderated.png" />
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',20)" title="lange Weg [20]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />lange Weg
+		<div class="ts3ssvFlags">
+			<img src="statusviewer/img/default/16x16_moderated.png" />
+		</div>
+		<div class="ts3ssvItem">
+	<img src="statusviewer/img/default/16x16_output_muted.png" />S3ptr0n
+	<div class="ts3ssvFlags">
+		<img src="statusviewer/img/default/group_500.png" /><img src="statusviewer/img/default/group_969820972.png" /><img src="statusviewer/img/default/group_784392624.png" />
+	</div>
+</div>
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',124)" title="anderes TS [124]">-->
+		<img src="statusviewer/img/default/16x16_channel_green.png" />anderes TS
+		<div class="ts3ssvFlags">
+			<img src="statusviewer/img/default/16x16_moderated.png" />
+		</div>
+		
+	<!--</a>-->
+	
+</div><div class="ts3ssvItem">
+	<!--<a href="javascript:ts3ssvconnect('81-169-151-134-2012',23)" title="Bot Room [23]">-->
+		<img src="statusviewer/img/default/16x16_channel_yellow.png" />Bot Room
+		<div class="ts3ssvFlags">
+			<img src="statusviewer/img/default/16x16_moderated.png" /><img src="statusviewer/img/default/16x16_register.png" />
+		</div>
+		<div class="ts3ssvItem">
+	<img src="statusviewer/img/default/16x16_hardware_output_muted.png" />SGI Fusion Bot
+	<div class="ts3ssvFlags">
+		<img src="statusviewer/img/default/group_500.png" />
+	</div>
+</div>
+	<!--</a>-->
+	
+</div>
+</div>
+	</div>
+</div>
