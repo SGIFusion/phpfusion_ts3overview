@@ -55,7 +55,7 @@ Das war es auch schon.<br /><br />
 Hier sind Beispiel Screenshots:<br /><br />
 <b>Responsives Theme/Template:</b><br />
 <img src="https://www.septron.de/images/support/001_testseite_respinsive_theme.jpg" border="0" ⁄><br /><br />
-<b>Bearbeitetes Theme/Template von <a href="http://pm-home.at/" target="_blank">pmhome.at</a>:</b><br />
+<b>Bearbeitetes Donate Theme/Template:</b><br />
 <a href="https://www.septron.de/images/support/002_testsite_coustom_pmhome_theme.jpg" target="_blank">testsite_donate_theme</a><br /><br />
 <b>Stylo Theme/Template:</b><br />
 <a href="https://www.septron.de/images/support/003_testsite_stylo_theme.jpg" target="_blank">testsite_stylo_theme</a><br /><br />
