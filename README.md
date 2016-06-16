@@ -65,10 +65,8 @@ Hier sind Beispiel Screenshots:<br /><br />
 <a href="https://www.septron.de/images/support/images/005_yatqa_icons.jpg" target="_blank">yatqa_icons</a><br /><br />
 </p>
 
-<h2>Updates</h2>
-<p>Update Informationen<br /><br />
-Derzeit keine weiteren geplant...
-</p>
+<h2>Update Informationen</h2>
+<p>Locale erstellen (derzeit nicht im Zeitplan aufgenommen)</p>
 
 <h2>Changelog</h2>
 <p>- TS3 PHP Framework von: <a href="http://forum.teamspeak.com/threads/54132-API-TS3-PHP-Framework?goto=newpost" target="_blank">Teamspeak.com</a> oder <a href="https://www.planetteamspeak.com/" target="_blank">planetteamspeak.com</a>
